@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import AddParent from "./AddParent";
+import draggable from "./draggable";
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
